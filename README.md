@@ -1,5 +1,5 @@
 Project-TTD Analysis
-# In the TTD analysis i need to evalvuate the risk of each parameter comparing them with from inception to current data.
+# In the TTD analysis created a model in excel using python code where i can evalvuate the risk of each parameter comparing them with from inception to current data.
 1, Need to understand the data and preprocess the data as per buisness requirement as it can be easily understand by anyone.
 2,Need to write the code so that each parameter can be converted to vertical data shape as we need to compare 101 columns from inception to current.
 3,The analysis is done on two level 
